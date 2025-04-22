@@ -1,1 +1,1 @@
-Tämä on websovellusten kehitääminen opintojakson repostorio. Tänne tallennen jokaisen moduulin työpajatehtävät omiin kansoihin.
+Tämä on websovellusten kehittäminen opintojakson repostorio. Tänne tallennan jokaisen moduulin työpajatehtävät omiin kansoihin.
